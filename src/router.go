@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"github.com/gin-contrib/pprof"
 	"github.com/gin-gonic/gin"
+	"github.com/gin-gonic/gin/binding"
 	"net/http"
 	"os"
 	. "src/apis"
@@ -11,8 +12,12 @@ import (
 	"src/database"
 	"src/middleaware"
 	"src/models"
+	"src/myvalidate"
 )
 func initRouter()*gin.Engine  {
+	// validator v8到v9
+	binding.Validator = new(myvalidate.DefaultValidator)
+
 	app:=gin.New()
 	if !database.MyDb.HasTable(models.Products{}){
 		if err:=database.MyDb.CreateTable(models.Products{}).Error;err!=nil{

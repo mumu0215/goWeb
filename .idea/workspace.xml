@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43278bd6-a88a-49fd-b315-0d27f04dd5ab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/go_build_src_.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/go_build_src_.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/default.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/default.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/router.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zap.log" beforeDir="false" afterPath="$PROJECT_DIR$/zap.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +33,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Z3lohHllN3LyTdrMgeu2dn4Rrp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -46,7 +55,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/bin" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
   <component name="RunManager">
     <configuration name="go build src/" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
@@ -111,10 +120,10 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state width="1663" height="299" key="GridCell.Tab.1.right/0.0.1707.920@0.0.1707.920" timestamp="1587710542010" />
-    <state x="330" y="133" key="SettingsEditor" timestamp="1587711122190">
+    <state x="330" y="133" key="SettingsEditor" timestamp="1587712897403">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="330" y="133" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1587711122190" />
+    <state x="330" y="133" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1587712897403" />
     <state x="521" y="128" width="1136" height="720" key="dock-window-1" timestamp="1584082200391">
       <screen x="0" y="0" width="1707" height="920" />
     </state>

@@ -1,5 +1,5 @@
 # goWeb
-*project for gin study*
+project for gin study
    
    
 # Used modules
@@ -12,7 +12,7 @@
      
      
 # ToDo
-- [ ] **Add Validator**  
+- [ ] **Add Validator V10**  
 - [ ] **Add Casbin**  
 - [ ] **Add Swagger**
     
