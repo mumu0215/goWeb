@@ -12,7 +12,7 @@ project for gin study
      
      
 # ToDo
-- [ ] **Add Validator V10**  
+- [X] **Add Validator V8 to V9**  
 - [ ] **Add Casbin**  
 - [ ] **Add Swagger**
     
