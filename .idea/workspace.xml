@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="43278bd6-a88a-49fd-b315-0d27f04dd5ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/go_build_src_.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/go_build_src_.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/src/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/src/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redis/initRedis.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/redis/initRedis.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zap.log" beforeDir="false" afterPath="$PROJECT_DIR$/zap.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,22 +89,22 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="608" y="246" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1584075975167" />
-    <state width="1663" height="211" key="GridCell.Tab.0.bottom" timestamp="1587719467152">
+    <state width="1663" height="211" key="GridCell.Tab.0.bottom" timestamp="1587737685230">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="211" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1587719467152" />
-    <state width="1663" height="211" key="GridCell.Tab.0.center" timestamp="1587719467152">
+    <state width="1663" height="211" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1587737685230" />
+    <state width="1663" height="211" key="GridCell.Tab.0.center" timestamp="1587737685230">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="211" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1587719467152" />
-    <state width="1663" height="211" key="GridCell.Tab.0.left" timestamp="1587719467152">
+    <state width="1663" height="211" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1587737685230" />
+    <state width="1663" height="211" key="GridCell.Tab.0.left" timestamp="1587737685230">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="211" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1587719467152" />
-    <state width="1663" height="211" key="GridCell.Tab.0.right" timestamp="1587719467152">
+    <state width="1663" height="211" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1587737685230" />
+    <state width="1663" height="211" key="GridCell.Tab.0.right" timestamp="1587737685230">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state width="1663" height="211" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1587719467152" />
+    <state width="1663" height="211" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1587737685230" />
     <state width="1663" height="299" key="GridCell.Tab.1.bottom" timestamp="1587710542010">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
@@ -124,10 +129,10 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="521" y="128" width="1136" height="720" key="dock-window-1/0.0.1707.920@0.0.1707.920" timestamp="1584082200391" />
-    <state x="534" y="193" width="638" height="534" key="find.popup" timestamp="1587693139352">
+    <state x="534" y="193" width="638" height="534" key="find.popup" timestamp="1587719674895">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
-    <state x="534" y="193" width="638" height="534" key="find.popup/0.0.1707.920@0.0.1707.920" timestamp="1587693139352" />
+    <state x="534" y="193" width="638" height="534" key="find.popup/0.0.1707.920@0.0.1707.920" timestamp="1587719674895" />
     <state x="902" y="241" width="672" height="678" key="search.everywhere.popup" timestamp="1587706551633">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
