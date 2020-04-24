@@ -15,6 +15,7 @@ project for gin study
 - [X] **Add Validator V8 to V9**  
 - [ ] **Add Casbin**  
 - [ ] **Add Swagger**
+- [ ] **Add Redis func to storage some temp info**
     
     
 

@@ -31,3 +31,35 @@
 2020-04-24 14:32:20	INFO	middleaware/mylog.go:61	POST	200	/user/register	127.0.0.1	0.072
 2020-04-24 16:08:11	INFO	middleaware/mylog.go:61	POST	200	/user/login	127.0.0.1	0.090
 2020-04-24 16:22:32	INFO	middleaware/mylog.go:61	POST	500	/user/login	127.0.0.1	0.017
+2020-04-24 16:31:41	INFO	middleaware/mylog.go:61	GET	400		127.0.0.1	0.000
+2020-04-24 16:31:41	INFO	middleaware/mylog.go:61	GET	400		127.0.0.1	0.000
+2020-04-24 16:31:41	INFO	middleaware/mylog.go:61	GET	400		127.0.0.1	0.000
+2020-04-24 16:32:07	INFO	middleaware/mylog.go:61	GET	200	/debug/pprof/	127.0.0.1	0.001
+2020-04-24 16:32:07	INFO	middleaware/mylog.go:61	GET	400		127.0.0.1	0.000
+2020-04-24 16:34:00	INFO	middleaware/mylog.go:61	GET	200	/debug/pprof/cmdline	127.0.0.1	0.000
+2020-04-24 16:34:00	INFO	middleaware/mylog.go:61	GET	400		127.0.0.1	0.000
+2020-04-24 16:34:03	INFO	middleaware/mylog.go:61	GET	400		127.0.0.1	0.000
+2020-04-24 16:34:03	INFO	middleaware/mylog.go:61	GET	200	/debug/pprof/allocs	127.0.0.1	0.000
+2020-04-24 16:34:04	INFO	middleaware/mylog.go:61	GET	400		127.0.0.1	0.000
+2020-04-24 16:34:15	INFO	middleaware/mylog.go:61	GET	400		127.0.0.1	0.000
+2020-04-24 16:34:16	INFO	middleaware/mylog.go:61	GET	200	/debug/pprof/block	127.0.0.1	0.100
+2020-04-24 16:34:16	INFO	middleaware/mylog.go:61	GET	400		127.0.0.1	0.000
+2020-04-24 16:34:18	INFO	middleaware/mylog.go:61	GET	400		127.0.0.1	0.000
+2020-04-24 16:34:19	INFO	middleaware/mylog.go:61	GET	200	/debug/pprof/goroutine	127.0.0.1	0.000
+2020-04-24 16:34:19	INFO	middleaware/mylog.go:61	GET	400		127.0.0.1	0.000
+2020-04-24 16:34:23	INFO	middleaware/mylog.go:61	GET	400		127.0.0.1	0.000
+2020-04-24 16:34:25	INFO	middleaware/mylog.go:61	GET	200	/debug/pprof/heap	127.0.0.1	0.000
+2020-04-24 16:34:25	INFO	middleaware/mylog.go:61	GET	400		127.0.0.1	0.000
+2020-04-24 16:34:28	INFO	middleaware/mylog.go:61	GET	400		127.0.0.1	0.000
+2020-04-24 16:34:30	INFO	middleaware/mylog.go:61	GET	200	/debug/pprof/mutex	127.0.0.1	0.000
+2020-04-24 16:34:30	INFO	middleaware/mylog.go:61	GET	400		127.0.0.1	0.000
+2020-04-24 16:34:31	INFO	middleaware/mylog.go:61	GET	400		127.0.0.1	0.000
+2020-04-24 16:34:42	INFO	middleaware/mylog.go:61	GET	200	/debug/pprof/profile	127.0.0.1	9.545
+2020-04-24 16:34:43	INFO	middleaware/mylog.go:61	GET	200	/debug/pprof/profile	127.0.0.1	0.907
+2020-04-24 16:34:43	INFO	middleaware/mylog.go:61	GET	200	/debug/pprof/threadcreate	127.0.0.1	0.000
+2020-04-24 16:34:43	INFO	middleaware/mylog.go:61	GET	400		127.0.0.1	0.000
+2020-04-24 16:34:45	INFO	middleaware/mylog.go:61	GET	400		127.0.0.1	0.000
+2020-04-24 16:34:49	INFO	middleaware/mylog.go:61	GET	200	/debug/pprof/trace	127.0.0.1	1.000
+2020-04-24 16:34:53	INFO	middleaware/mylog.go:61	GET	200	/debug/pprof/goroutine	127.0.0.1	0.000
+2020-04-24 16:34:53	INFO	middleaware/mylog.go:61	GET	400		127.0.0.1	0.000
+2020-04-24 16:34:55	INFO	middleaware/mylog.go:61	GET	400		127.0.0.1	0.000
