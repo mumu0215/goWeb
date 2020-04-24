@@ -30,3 +30,4 @@
 2020-04-24 14:31:59	INFO	middleaware/mylog.go:61	POST	200	/user/register	127.0.0.1	0.084
 2020-04-24 14:32:20	INFO	middleaware/mylog.go:61	POST	200	/user/register	127.0.0.1	0.072
 2020-04-24 16:08:11	INFO	middleaware/mylog.go:61	POST	200	/user/login	127.0.0.1	0.090
+2020-04-24 16:22:32	INFO	middleaware/mylog.go:61	POST	500	/user/login	127.0.0.1	0.017
